@@ -1,0 +1,2 @@
+
+const mobileWidth = 768;
